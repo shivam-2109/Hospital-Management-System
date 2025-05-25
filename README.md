@@ -1,2 +1,11 @@
-Our team developed a Hospital Management System, a desktop application designed to streamline hospital operations and improve efficiency. Built using Java Swing for the user interface and MySQL (JDBC) for database management, this application facilitates seamless management of patient records, ambulance services, room allocations, and comprehensive oversight of medical departments, including surgery, nursing, and general care.
-The system ensures secure database integration, enabling efficient data storage and retrieval. Its intuitive UI prioritizes responsiveness and user-friendly navigation, enhancing operational workflow for hospital administrators and staff.
+Our team has developed a comprehensive Hospital Management System (HMS) utilizing Java Swing for the user interface and MySQL with JDBC for database connectivity. This desktop application aims to streamline and automate various hospital operations, ensuring efficient management of patient information, medical services, and departmental functions.
+
+Patient Information Management: Efficiently store and manage patient records, including personal details, medical history, and treatment plans.
+
+Ambulance Service Coordination: Track and manage ambulance services to ensure timely patient transportation.
+
+Room Service Management: Oversee room assignments, patient accommodations, and related services.
+
+Departmental Management: Administer various hospital departments such as Surgery, Nursing, and others, facilitating seamless coordination and resource allocation.
+
+This system is designed to enhance operational efficiency, reduce administrative overhead, and improve overall patient care within the hospital setting.
