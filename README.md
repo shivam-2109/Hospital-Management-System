@@ -1,5 +1,2 @@
-our group create a desktop app for
-Hospiatl Management System 
-we are using Java Swing and for database MySQL JDBC
-bassically this application manage hospital Patient Information 
-Ambulance service Room Sevice And Manage all department of doctor (like Surgery, Nursing etc)
+Our team developed a Hospital Management System, a desktop application designed to streamline hospital operations and improve efficiency. Built using Java Swing for the user interface and MySQL (JDBC) for database management, this application facilitates seamless management of patient records, ambulance services, room allocations, and comprehensive oversight of medical departments, including surgery, nursing, and general care.
+The system ensures secure database integration, enabling efficient data storage and retrieval. Its intuitive UI prioritizes responsiveness and user-friendly navigation, enhancing operational workflow for hospital administrators and staff.
