@@ -1,11 +1,56 @@
-Our team has developed a comprehensive Hospital Management System (HMS) utilizing Java Swing for the user interface and MySQL with JDBC for database connectivity. This desktop application aims to streamline and automate various hospital operations, ensuring efficient management of patient information, medical services, and departmental functions.
+# Hospital Management System 🏥
 
-Patient Information Management: Efficiently store and manage patient records, including personal details, medical history, and treatment plans.
+## 📋 Description
+A GUI-based Java application to manage hospital operations including patient registration, employee info, room allocation, and discharge.
 
-Ambulance Service Coordination: Track and manage ambulance services to ensure timely patient transportation.
+## 🗂️ Folder Structure
+- `src/hospital.management.system`: All Java source files
+- `icon/`: Icons for GUI
+- `database/hospital_schema.sql`: SQL script to set up DB
 
-Room Service Management: Oversee room assignments, patient accommodations, and related services.
+## ✅ Features
+- Patient admission and discharge
+- Employee and department records
+- Room search and allocation
+- Login system with basic validation
 
-Departmental Management: Administer various hospital departments such as Surgery, Nursing, and others, facilitating seamless coordination and resource allocation.
+## 🧰 Tech Stack
+- Java (Swing/AWT)
+- MySQL
+- JDBC
 
-This system is designed to enhance operational efficiency, reduce administrative overhead, and improve overall patient care within the hospital setting.
+## 📦 Setup Instructions
+1. Clone this repo
+2. Import in IntelliJ or Eclipse
+3. Setup MySQL using `hospital_schema.sql`
+4. Run `Login.java` to start
+
+## 💡 Notes
+- All database credentials are in `conn.java`
+- Icons must be inside `/icon/`
+## Folder Structure
+HospitalManagementSystem/
+-├── .idea/
+-├── out/
+-├── src/
+-│   └── hospital/management/system/
+-│       ├── ALL_Patient_Info.java
+-│       ├── Ambulance.java
+-│       ├── conn.java
+-│       ├── Department.java
+-│       ├── Employee_info.java
+-│       ├── Login.java
+-│       ├── NEW_PATIENT.java
+-│       ├── patient_discharge.java
+-│       ├── Reception.java
+-│       ├── Room.java
+-│       ├── SearchRoom.java
+-│       ├── update_patient_details.java
+-│   └── icon/
+-│       ├── amb.png
+-│       ├── dr.png
+-│       └── login.png
+-├── database/
+-│   └── hospital_schema.sql
+-├── README.md
+
